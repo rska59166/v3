@@ -38,3 +38,5 @@ export enum KnownChatType {
   OPEN_POST = 98,
 
 }
+  
+타입정리
